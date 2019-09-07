@@ -1,2 +1,2 @@
 # CTCI
-Repo containing my solutions to cracking the coding interview exercises
+Repo containing Funmi's solutions to cracking the coding interview exercises
